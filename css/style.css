@@ -1,0 +1,45 @@
+.wrapper {
+    height: 200px;
+
+}
+
+.box {
+
+    height: 100px;
+    background-color: rgba(9, 150, 108, 0.674);
+    align-items: center;
+    color: aliceblue;
+}
+
+.box3 {
+    color: none;
+}
+
+.box33 {
+    height: 45px;
+    background-color: rgba(9, 150, 108, 0.674);
+    align-items: center;
+    color: aliceblue;
+}
+
+.span {
+    height: 150px;
+    background-color:  rgba(9, 150, 108, 0.674);
+    align-items: center;
+    color: aliceblue;
+
+}
+
+.span1 {
+    height: 150px;
+    background-color: none;
+    align-items: center;
+
+}
+
+.span11 {
+    height: 70px;
+    background-color: rgba(9, 150, 108, 0.674);
+    align-items: center;
+    color: aliceblue;
+}
